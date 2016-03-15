@@ -1,0 +1,52 @@
+body
+{
+    font-family: Arial, sans-serif;
+}
+#rectangle
+{
+	background-color: #595959;
+    font-family: Arial, sans-serif;
+	width: 350px;
+}
+a:link
+{
+    color: #f3f6ac;
+    text-decoration: none;
+}
+a:visited
+{
+    color: #f3f6ac;
+    text-decoration: none;
+}
+span.circle 
+{
+    border-radius: 50%;
+    background-color: #71b47a;
+}
+span.alert
+{
+    color: red;
+}
+thead
+{
+    font-size: 20px;
+    color: #acb1aa;
+}
+td
+{
+    padding: 5px;
+    color: #ccc;
+}
+td.info, td.details
+{
+    font-size: 14px;
+}
+td.info
+{
+    font-style: italic;
+    color: #fff;
+}
+td.status
+{
+    color: orange;
+}
